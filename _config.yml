@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Home Page"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "QIAN,Cheng(钱程)"
+  name             : "QIAN, Cheng (钱程)"
   avatar           : "profile.png"
   bio              : "PhD Student, HKU"
   location         : "Hong Kong"
