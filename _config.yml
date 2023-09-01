@@ -13,7 +13,7 @@ name                     : &name "Your Name"
 description              : &description "personal description"
 url                      : "https://qcluke.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "qcluke/qcluke.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -86,8 +86,8 @@ author:
   location         : "Hong Kong"
   employer         :
   pubmed           :
-  googlescholar    : "https://scholar.google.com/citations?user=zFj764EAAAAJ&hl=en"
-  email            : "qcluke@connect.hku.hk"
+  googlescholar    : https://scholar.google.com/citations?user=zFj764EAAAAJ&hl=en
+  email            : qcluke@connect.hku.hk
   researchgate     : 
   uri              :
   bitbucket        :
@@ -96,13 +96,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/qcluke"
+  github           : qcluke
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/cheng-qian-b124181b8/"
+  linkedin         : cheng-qian-b124181b8
   orcid            : 
   pinterest        :
   soundcloud       :
