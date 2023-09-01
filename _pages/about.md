@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hi Welcome to my homepage!"
+title: #"Hi Welcome to my homepage!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -11,7 +11,7 @@ redirect_from:
 
 
 About Me
-====
+======
 
 I am a PhD student in the School of Biological Sciences [(SBS)](https://www.biosch.hku.hk/) at the Univeristy of Hong Kong [(HKU)](https://www.hku.hk/), supervised by [Dr. Mathew Seymour](https://sites.google.com/view/matseymour/home).
 
@@ -22,4 +22,4 @@ You can find my publications on my [Google Scholar](https://scholar.google.com/c
 
 
 NEWS
-====
+======
