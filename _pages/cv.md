@@ -9,6 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
+CV
+======
+
 Education
 ======
 * BSc in Aquaculture with First Class honours, Dalhousie University, 2015-2019
