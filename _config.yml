@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Luke"
+title                    : "QIAN, Cheng (钱程)"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -80,8 +80,8 @@ analytics:
 
 # Site Author
 author:
-  name             : "QIAN, Cheng (钱程)"
-  avatar           : "cat.png"
+  name             : "Luke"
+  avatar           : "cat1.png"
   bio              : "PhD Student, HKU"
   location         : "Hong Kong"
   employer         :
