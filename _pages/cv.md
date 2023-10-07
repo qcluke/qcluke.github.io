@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* BSc in Aquaculture with First Class honours, Dalhousie University, 2019
-* MPhil in Marine Environmental Science, The Hong Kong University of Science and Technology, 2022
 * PhD in Ecology and Biodiversity, The University of Hong Kong, 2023-2026 (Expected)
+* MPhil in Marine Environmental Science, The Hong Kong University of Science and Technology, 2022
+* BSc in Aquaculture with First Class honours, Dalhousie University, 2019
 
 Experience
 ======
