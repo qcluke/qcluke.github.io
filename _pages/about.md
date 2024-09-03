@@ -19,4 +19,4 @@ You can find my publications on my [Google Scholar](https://scholar.google.com/c
 News
 ======
 ### *2024*
-+ Passed qualifying examination in August - eDNA Metabarcoding
++ Passed PhD qualifying examination in August - eDNA Metabarcoding
