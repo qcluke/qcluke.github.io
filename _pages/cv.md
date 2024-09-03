@@ -28,6 +28,6 @@ Teaching Assistant
 
 Conference Presentation
 ======
-* Ocean-HK Symposium, Hong Kong, China, 2022
+* Ocean-HK Symposium, Hong Kong SAR, 2022
 * Science Atlantic Conference, Moncton, Canada, 2019
 
