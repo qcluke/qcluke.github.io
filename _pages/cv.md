@@ -17,17 +17,13 @@ Education
 
 Experience
 ======
-* Reasearch Assistant, Zhejiang University, 2022-2023
+* Teaching Assistant, School of Biological Sciences, The University of Hong Kong, 2023-Now
+* Reasearch Assistant, Ocean College, Zhejiang University, 2022-2023
+* Teaching Assistant, Department of Ocean Science, The Hong Kong University of Science and Technology, 2020-2022
 
-Teaching Assistant
+Presentation
 ======
-* HKU BIOL3301 - Marine Biology, Fall 2023
-* HKUST OCES1030 - Environemntal Science, Spring 2022
-* HKUST OCES3330 - Marine Biology Laboratory, Fall 2021
-* HKUST ENVS3001 - Coastal Environmental Monitoring, Spring 2021
-
-Conference Presentation
-======
+* Annual Ecology & Biodiversity Symposium, Hong Kong SAR, 2024
 * Ocean-HK Symposium, Hong Kong SAR, 2022
 * Science Atlantic Conference, Moncton, Canada, 2019
 
