@@ -17,13 +17,13 @@ Education
 
 Experience
 ======
-* Teaching Assistant, School of Biological Sciences, The University of Hong Kong, 2023-Now
-* Reasearch Assistant, Ocean College, Zhejiang University, 2022-2023
-* Teaching Assistant, Department of Ocean Science, The Hong Kong University of Science and Technology, 2020-2022
+* Teaching Assistant, School of Biological Sciences, HKU, 2023-Now
+* Reasearch Assistant, Ocean College, ZJU, 2022-2023
+* Teaching Assistant, Department of Ocean Science, HKUST, 2020-2022
 
 Presentation
 ======
-* Annual Ecology & Biodiversity Symposium, Hong Kong SAR, 2024
-* Ocean-HK Symposium, Hong Kong SAR, 2022
+* Annual Ecology & Biodiversity Symposium, Hong Kong, China, 2024
+* Ocean-HK Symposium, Hong Kong, China, 2022
 * Science Atlantic Conference, Moncton, Canada, 2019
 
