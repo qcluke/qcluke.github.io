@@ -10,9 +10,9 @@ redirect_from:
 
 Hi, welcome to my homepage!
 ======
-I am a PhD candidate in the School of Biological Sciences [(SBS)](https://www.biosch.hku.hk/) at the Univeristy of Hong Kong [(HKU)](https://www.hku.hk/), supervised by [Prof. Mathew Seymour](https://sites.google.com/view/matseymour/home).
+I am a PhD candidate in the School of Biological Sciences [(SBS)](https://www.biosch.hku.hk/) at the Univeristy of Hong Kong [(HKU)](https://www.hku.hk/), supervised by [Prof. Mathew Seymour](https://sites.google.com/view/matseymour/home) and [Prof. Bayden Russell](https://www.marinefutures.org/).
 
-My primary research interest lies in the field of **Ecology**, including **Biodiversity**, **Environmental Assessment**, and **Community Ecology**.
+My research primarily lies in the field of **Molecular Ecology**, including **Biodiversity**, **Environmental DNA**, **Ocean Science**, and **Community Ecology**.
 
 You can find my publications on my [Google Scholar](https://scholar.google.com/citations?user=zFj764EAAAAJ&hl=en) profile.
 
